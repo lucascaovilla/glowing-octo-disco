@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The universal converter for all porpouses.",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A system developed for Arduino UNO R3 focused on delivering resources to it's operator as requested. Specially focused on industrial applications.",
+    url: "https://github.com/lucascaovilla/storage-manager",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My LibC",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Libft is my own implemented C library with the main functions of the original LibC.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and development skills.",
+    url: "https://github.com/lucascaovilla/resume",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction to Quantum Computing",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Recording of MLSA live about quantum computing for begginers. Introduction to the mais aspects of quantum systems.",
+    url: "https://youtu.be/ikNW4etNXOg",
   },
 ];
 
